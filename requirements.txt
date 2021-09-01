@@ -1,0 +1,5 @@
+redis
+Flask==1.1.2
+Flask-SQLAlchemy==2.5.1
+flask-migrate
+psycopg2-binary
